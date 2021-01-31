@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
 ll n,m,k,app=0,apt=0,c=0;
+cout<<"Enter the values of n,m and k"<<endl;
 cin>>n>>m>>k;
 ll a[n],b[m];
 for(ll i=0;i<n;i++)
