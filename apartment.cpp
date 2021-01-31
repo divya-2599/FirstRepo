@@ -27,7 +27,6 @@ while(app<n && apt<m)
     app++;
 
 }
-cout<<"Added a new line here for checking newbranch"<<endl;
 cout<<c<<endl;;
 return 0;
 }
