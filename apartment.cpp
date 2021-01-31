@@ -27,6 +27,6 @@ while(app<n && apt<m)
     app++;
 
 }
-cout<<c;
+cout<<c<<endl;;
 return 0;
 }
