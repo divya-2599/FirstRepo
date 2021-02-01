@@ -27,7 +27,7 @@ while(app<n && apt<m)
     app++;
 
 }
-cout<<"Added new line here"<<endl;
+cout<<"Added new line here...."<<endl;
 cout<<c<<endl;;
 return 0;
 }
